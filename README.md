@@ -32,7 +32,7 @@ Todo
 
 ## Clean Code
 
-Todo
+- [ ] :video: [Core Design Principles for Software Developers](https://www.youtube.com/watch?v=llGgO74uXMI) by Venkat Subramaniam — 2 hrs 36 mins 09 seconds
 
 ## Unit Testing
 
