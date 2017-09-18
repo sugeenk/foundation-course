@@ -12,13 +12,18 @@ This handbook outlines resources that every Xebian has to go through within a we
 
 Todo
 
-## Git
+## Git & Github
 
-Todo
-
-## Github
-
-Todo
+- [ ] :note: [What is Git](https://www.atlassian.com/git/tutorials/what-is-git) by Atlassian
+- [ ] :note: [Getting started with Git](https://www.atlassian.com/git/tutorials/setting-up-a-repository) by Atlassian
+      - [ ] Saving changes
+      - [ ] Inspecting a repository
+      - [ ] Undoing changes
+      - [ ] Rewriting history
+- [ ] :note: [Making a Pull Request](https://www.atlassian.com/git/tutorials/making-a-pull-request) by Atlassian
+- [ ] :note: [Using branches](https://www.atlassian.com/git/tutorials/using-branches) by Atlassian
+- [ ] :note: [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows) by Atlassian
+- [ ] :video_camera: [Linus Torvalds on Git](https://www.youtube.com/watch?v=idLyobOhtO4) by Linus Torvalds — 01:10:14
 
 ## Continuous Integration
 
@@ -46,10 +51,6 @@ Todo
 - [ ] :blue_book: [Clean Code: A handbook of Agile Software Craftsmanship](https://www.amazon.in/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM) — By Robert C. Martin — Optional
 
 ## TDD
-
-Todo
-
-## Technology Agnostic
 
 Todo
 
