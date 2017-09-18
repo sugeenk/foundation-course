@@ -51,6 +51,8 @@ Todo
 - [ ] :video_camera: [Core Design Principles for Software Developers](https://www.youtube.com/watch?v=llGgO74uXMI) by Venkat Subramaniam — 02:36:09
 - [ ] :video_camera: [Function is Cool, but do you OO](https://www.youtube.com/watch?v=oiFYPAel-KY) by Sandro Mancuso — 00:54:17
 - [ ] :note: [S.O.L.I.D Software Development, One Step at a Time](http://www.codemag.com/article/1001061) — By Derick Bailey
+- [ ] :video_camera: [Workflows of Refactoring](https://www.youtube.com/watch?v=vqEg37e4Mkw) by Martin Fowler — 00:27:04
+- [ ] :note: [Natural Course of Refactoring — a Refactoring Workflow](https://www.infoq.com/articles/natural-course-refactoring) by Mariusz Sieraczkiewicz
 
 ## TDD
 
@@ -63,11 +65,6 @@ Todo
 
 ## Linux Basics
 
-Todo
-
-## Know your IDE
-
-Todo
-
-
+- [ ] :blue_book: [Conquering the Command Line](http://conqueringthecommandline.com/book/frontmatter) by Mark Bates
+- [ ] :video_camera: [60 useful Linux commands in 15 minutes](https://www.youtube.com/watch?v=JfCK8OqgmSY) by Pierre-Antoine — 00:21:31
 
