@@ -33,7 +33,8 @@ Todo
 
 ## Build Tools
 
-Todo
+- [ ] :note: [What is a Build Tool](http://www.lihaoyi.com/post/WhatsinaBuildTool.html) by Li Haoyi
+- [ ] :video_camera: [The Art of the Builds](https://www.infoq.com/presentations/build-system-concepts) by Hans Dockter — 00:51:07
 
 ## Infrastructure as code
 
