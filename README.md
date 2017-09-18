@@ -49,11 +49,15 @@ Todo
 - [ ] :video_camera: [Core Design Principles for Software Developers](https://www.youtube.com/watch?v=llGgO74uXMI) by Venkat Subramaniam — 02:36:09
 - [ ] :video_camera: [Function is Cool, but do you OO](https://www.youtube.com/watch?v=oiFYPAel-KY) by Sandro Mancuso — 00:54:17
 - [ ] :note: [S.O.L.I.D Software Development, One Step at a Time](http://www.codemag.com/article/1001061) — By Derick Bailey
-- [ ] :blue_book: [Clean Code: A handbook of Agile Software Craftsmanship](https://www.amazon.in/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM) — By Robert C. Martin — Optional
 
 ## TDD
 
-Todo
+- [ ] :video_camera: [The Clean Code Talks — Unit Testing](https://www.youtube.com/watch?v=wEhu57pih5w) by Google — 00:32:07
+- [ ] :video_camera: [Test-driven development: Write better code in less time](https://www.youtube.com/watch?v=HhwElTL-mdI) by Evan Dorn — 00:30:54
+- [ ] :video_camera: [The Transformation Priority Premise](https://www.youtube.com/watch?v=B93QezwTQpI) by Robert C Martin — 00:53:43
+- [ ] :video_camera: [Programming with GUTs](https://www.infoq.com/presentations/testing-communication) by Kevlin Henney — 01:02:42
+- [ ] :note: [Test Pyramid](https://martinfowler.com/bliki/TestPyramid.html) by Martin Fowler
+- [ ] :note: [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html) by Martin Fowler
 
 ## Linux Basics
 
