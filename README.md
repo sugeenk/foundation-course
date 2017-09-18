@@ -16,10 +16,10 @@ Todo
 
 - [ ] :newspaper: [What is Git](https://www.atlassian.com/git/tutorials/what-is-git) by Atlassian
 - [ ] :newspaper: [Getting started with Git](https://www.atlassian.com/git/tutorials/setting-up-a-repository) by Atlassian
-      - [ ] Saving changes
-      - [ ] Inspecting a repository
-      - [ ] Undoing changes
-      - [ ] Rewriting history
+      - Saving changes
+      - Inspecting a repository
+      - Undoing changes
+      - Rewriting history
 - [ ] :newspaper: [Making a Pull Request](https://www.atlassian.com/git/tutorials/making-a-pull-request) by Atlassian
 - [ ] :newspaper: [Using branches](https://www.atlassian.com/git/tutorials/using-branches) by Atlassian
 - [ ] :newspaper: [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows) by Atlassian
