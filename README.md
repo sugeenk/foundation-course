@@ -36,13 +36,15 @@ Todo
 - [ ] :note: [What is a Build Tool](http://www.lihaoyi.com/post/WhatsinaBuildTool.html) by Li Haoyi
 - [ ] :video_camera: [The Art of the Builds](https://www.infoq.com/presentations/build-system-concepts) by Hans Dockter — 00:51:07
 
-## Infrastructure as code
+## DevOps
 
-Todo
-
-## Containers
-
-Todo
+- [ ] :video_camera: [Introduction to DevOps](https://channel9.msdn.com/Series/DevOps-Fundamentals/Introduction-to-DevOps) by Channel9 — 00:27:50
+- [ ] :video_camera: [Infrastructure as Code](https://channel9.msdn.com/Series/DevOps-Fundamentals/Infrastructure-as-Code) by Channel9 — 00:25:40
+- [ ] :video_camera: [Continuous Integration](https://channel9.msdn.com/Series/DevOps-Fundamentals/Continuous-Integration) by Channel9 — 00:19:00
+- [ ] :video_camera: [Continuous Deployment and Release Management](https://channel9.msdn.com/Series/DevOps-Fundamentals/Continuous-Deployment-and-Release-Management) by Channel9 — 00:44:33
+- [ ] :video_camera: [Configuration Management](https://channel9.msdn.com/Series/DevOps-Fundamentals/Configuration-Management) by Channel9 — 00:22:36
+- [ ] :video_camera: [How Netflix Thinks About DevOps](https://www.youtube.com/watch?v=HmM4V33ReCw) by Dave Hahn — 00:31:10
+- [ ] :note: [What is DevOps?](https://www.atlassian.com/devops) by Atlassian
 
 ## Clean Code
 
