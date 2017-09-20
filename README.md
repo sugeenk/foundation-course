@@ -9,9 +9,10 @@ This handbook outlines resources that every Xebian has to go through within a we
 * :blue_book: — Book
 * :alarm_clock: — Estimated time to finish the section
 
-## Agile
+## Agile — :alarm_clock: 4 hours
 
-Todo
+- [ ] :blue_book: [Basics of Scrum](./content/scrum.pdf) by Xebia 
+- [ ] :video_camera: [Agile Product Ownership in a Nutshell](https://www.youtube.com/watch?v=502ILHjX9EE) by Henrik Kniberg — 00:15:51
 
 ## Git & Github — :alarm_clock: 6 hours
 
