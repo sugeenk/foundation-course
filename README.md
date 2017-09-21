@@ -1,6 +1,17 @@
 # :book: Xebia's Foundation Course
 
-This handbook outlines resources that every Xebian has to go through within a week of their joining.
+This guide outlines resources that every Xebian has to go through within a week of their joining. **Duration for this course is 1 week**.
+
+## How to successfully finish this course?
+
+To successfully finish this course, you need to do following:
+
+1. Create a [Github account](https://github.com/join) if you don't already have one.
+2. [Fork](https://help.github.com/articles/fork-a-repo/) the [course](https://github.com/xebiaww/foundation-course) Github repository to your Github account. Forks of a private repository are private as well.
+3. [Clone the forked repository](https://help.github.com/articles/cloning-a-repository/) on your local machine.
+4. Edit the `README.md` and mark each task done as you move along. To learn how to mark a task done, read [Github documentation](https://help.github.com/articles/about-task-lists/).
+5. Commit your changes and push it your fork.
+6. Once you finish all the tasks, create a pull request against the [xebiaww/foundation-course](xebiaww/foundation-course).
 
 ## Legends
 
@@ -59,18 +70,9 @@ This handbook outlines resources that every Xebian has to go through within a we
 ## DevOps — :alarm_clock: 4 hours
 
 - [ ] 📰 [What is DevOps?](https://www.atlassian.com/devops) by Atlassian
-
 - [ ] :video_camera: [Introduction to DevOps](https://channel9.msdn.com/Series/DevOps-Fundamentals/Introduction-to-DevOps) by Channel9 — 00:27:50
-
 - [ ] :video_camera: [Infrastructure as Code](https://channel9.msdn.com/Series/DevOps-Fundamentals/Infrastructure-as-Code) by Channel9 — 00:25:40
-
 - [ ] :video_camera: [Continuous Integration](https://channel9.msdn.com/Series/DevOps-Fundamentals/Continuous-Integration) by Channel9 — 00:19:00
-
 - [ ] :video_camera: [Continuous Deployment and Release Management](https://channel9.msdn.com/Series/DevOps-Fundamentals/Continuous-Deployment-and-Release-Management) by Channel9 — 00:44:33
-
 - [ ] :video_camera: [Configuration Management](https://channel9.msdn.com/Series/DevOps-Fundamentals/Configuration-Management) by Channel9 — 00:22:36
-
 - [ ] :video_camera: [How Netflix Thinks About DevOps](https://www.youtube.com/watch?v=HmM4V33ReCw) by Dave Hahn — 00:31:10
-
-      ​
-
