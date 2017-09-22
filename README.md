@@ -76,3 +76,9 @@ To successfully finish this course, you need to do following:
 - [ ] :video_camera: [Continuous Deployment and Release Management](https://channel9.msdn.com/Series/DevOps-Fundamentals/Continuous-Deployment-and-Release-Management) by Channel9 — 00:44:33
 - [ ] :video_camera: [Configuration Management](https://channel9.msdn.com/Series/DevOps-Fundamentals/Configuration-Management) by Channel9 — 00:22:36
 - [ ] :video_camera: [How Netflix Thinks About DevOps](https://www.youtube.com/watch?v=HmM4V33ReCw) by Dave Hahn — 00:31:10
+
+# Security 
+
+- [ ] :video_camera: [OWASP Top 10 Vulnerabilities](https://www.youtube.com/playlist?list=PLoyY7ZjHtUUVLs2fy-ctzZDSPpawuQ28d) by IBM Security — 01:00:00 
+- [ ] :blue_book: [OWASP Secure Coding Practices Quick Reference Guide](https://www.owasp.org/images/0/08/OWASP_SCP_Quick_Reference_Guide_v2.pdf) by OWASP Group — 00:30:00
+
