@@ -27,12 +27,12 @@ To successfully finish this course, you need to do following:
 
 ## TDD — ⏰ 5 hours
 
-- 📹 [The Clean Code Talks — Unit Testing](https://www.youtube.com/watch?v=wEhu57pih5w) by Google — 00:32:07
-- 📹 [Test-driven development: Write better code in less time](https://www.youtube.com/watch?v=HhwElTL-mdI) by Evan Dorn — 00:30:54
-- 📹 [The Transformation Priority Premise](https://www.youtube.com/watch?v=B93QezwTQpI) by Robert C Martin — 00:53:43
-- 📹 [Programming with GUTs](https://www.infoq.com/presentations/testing-communication) by Kevlin Henney — 01:02:42
-- 📰 [Test Pyramid](https://martinfowler.com/bliki/TestPyramid.html) by Martin Fowler
-- 📰 [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html) by Martin Fowler
+- [ ] 📹 [The Clean Code Talks — Unit Testing](https://www.youtube.com/watch?v=wEhu57pih5w) by Google — 00:32:07
+- [ ] 📹 [Test-driven development: Write better code in less time](https://www.youtube.com/watch?v=HhwElTL-mdI) by Evan Dorn — 00:30:54
+- [ ] 📹 [The Transformation Priority Premise](https://www.youtube.com/watch?v=B93QezwTQpI) by Robert C Martin — 00:53:43
+- [ ] 📹 [Programming with GUTs](https://www.infoq.com/presentations/testing-communication) by Kevlin Henney — 01:02:42
+- [ ] 📰 [Test Pyramid](https://martinfowler.com/bliki/TestPyramid.html) by Martin Fowler
+- [ ] 📰 [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html) by Martin Fowler
 
 ## Clean Code — ⏰ 6 hours
 
@@ -77,7 +77,7 @@ To successfully finish this course, you need to do following:
 - [ ] :video_camera: [Configuration Management](https://channel9.msdn.com/Series/DevOps-Fundamentals/Configuration-Management) by Channel9 — 00:22:36
 - [ ] :video_camera: [How Netflix Thinks About DevOps](https://www.youtube.com/watch?v=HmM4V33ReCw) by Dave Hahn — 00:31:10
 
-# Security — :alarm_clock: 1.5 hours 
+## Security — :alarm_clock: 1.5 hours 
 
 - [ ] :video_camera: [OWASP Top 10 Vulnerabilities](https://www.youtube.com/playlist?list=PLoyY7ZjHtUUVLs2fy-ctzZDSPpawuQ28d) by IBM Security — 01:00:00 
 - [ ] :blue_book: [OWASP Secure Coding Practices Quick Reference Guide](https://www.owasp.org/images/0/08/OWASP_SCP_Quick_Reference_Guide_v2.pdf) by OWASP Group — 00:30:00
